@@ -15,4 +15,8 @@ assignees: 'jmt1'
 
 # Description
 
+* Description of the problem:
+
+* Enter the image and video made from App:
+
 <!-- Descripción del PR, comportamiento sucedido, comportamiento esperado, entorno y detalles para reproducir el problema, sugerencias de solución, ...  -->
