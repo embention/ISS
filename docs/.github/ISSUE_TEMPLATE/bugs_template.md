@@ -9,6 +9,9 @@ assignees: 'jmt1'
 
 # References
 
+
+* This issue is created for the knowledge of possible errors generated in our applications and with the fact of improving our quality product
+
 <!-- Una línea por cada URL completa de las tareas relacionadas -->
 <!-- Procedimiento para Crear Issues: -->
 <!-- https://documentation.embention.net/Crear_Issue/latest/index.html  -->
