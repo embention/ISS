@@ -17,4 +17,4 @@ assignees: 'jmt1'
 
 * Description of the problem:
 
-* Enter the image and video made from App:
+* Enter the image and video made from VeronteApp:
