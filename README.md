@@ -1,6 +1,5 @@
-# ISS             
+# ISS   Repository to know the bugs that have occurred through the use of our applications
 
 🚀 ISsueStation 🚀 
 
-https://img.shields.io/github/issues-raw/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp&logo=github&style=flat-square
               
