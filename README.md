@@ -39,24 +39,13 @@
 
 💹 For greater visualization of our work, we are going to use the badges, all the issues of each application will contain several badges that will show the problems found, those that have been resolved, those that remain to be done and more data so that the client can see if his reported problem is being addressed
 
-*> open issues
+  *> open issues
 
 ![alt issues](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp%20issues&logo=github&style=for-the-badge)
 ![alt issues](https://img.shields.io/github/issues/embention/ISS/VeronteFDR?color=blue&label=ISS%2FVeronteFDR%20issues&logo=github&style=for-the-badge)
 ![alt issues](https://img.shields.io/github/issues/embention/ISS/VeronteLink?color=blue&label=ISS%2FVeronteLink%20issues&logo=github&style=for-the-badge)
 
-*> issues closed
-![alt issues](https://img.shields.io/github/issues-closed-raw/embention/ISS/VeronteApp?label=ISS%2FVeronteApp%20&logo=github&style=for-the-badge)
+  *> issues closed
+![alt issues](https://img.shields.io/github/issues-closed-raw/embention/ISS/VeronteApp?label=ISS%2FVeronteApp%20&logo=github&style=for-the-badge) 
 ![alt issues](https://img.shields.io/github/issues-closed-raw/embention/ISS/VeronteFDR?label=ISS%2FVeronteFDR%20&logo=github&style=for-the-badge)
 ![alt issues](https://img.shields.io/github/issues-closed-raw/embention/ISS/VeronteLink?label=ISS%2FVeronteLink%20&logo=github&style=for-the-badge)
-
-
-
-
-
-
-
-![alt commit](https://img.shields.io/github/issues-search/jmt1/trial_travis?label=%20ISS%20%2FVeronteApp&logo=github&logoColor=white&query=is%3Aopen%20is%3Aissue%20label%3Abug&style=for-the-badge)
-
-
-              
