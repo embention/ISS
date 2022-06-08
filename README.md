@@ -41,9 +41,9 @@
 
   *> open issues
 
-![alt issues](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp%20issues&logo=github&style=for-the-badge)
-![alt issues](https://img.shields.io/github/issues/embention/ISS/VeronteFDR?color=blue&label=ISS%2FVeronteFDR%20issues&logo=github&style=for-the-badge)
-![alt issues](https://img.shields.io/github/issues/embention/ISS/VeronteLink?color=blue&label=ISS%2FVeronteLink%20issues&logo=github&style=for-the-badge)
+![alt issues](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp&logo=github&style=for-the-badge)
+![alt issues](https://img.shields.io/github/issues/embention/ISS/VeronteFDR?color=blue&label=ISS%2FVeronteFDR&logo=github&style=for-the-badge)
+![alt issues](https://img.shields.io/github/issues/embention/ISS/VeronteLink?color=blue&label=ISS%2FVeronteLink&logo=github&style=for-the-badge)
 
   *> issues closed
 ![alt issues](https://img.shields.io/github/issues-closed-raw/embention/ISS/VeronteApp?label=ISS%2FVeronteApp%20&logo=github&style=for-the-badge) 
