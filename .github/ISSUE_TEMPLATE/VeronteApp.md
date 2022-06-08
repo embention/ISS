@@ -2,7 +2,7 @@
 name: Problem Report 
 about: Describe a PR
 title: ''
-labels: PR , Software
+labels: VeronteApp, PR, Software
 assignees: 'jmt1'
 
 ---
