@@ -7,19 +7,17 @@ assignees: 'jmt1'
 
 ---
 body:
-
-# References
-
-* This issue is created for the knowledge of possible errors generated in our applications and with the fact of improving our quality product.
-* Enter a description of the error that occurred so that our engineers can begin to solve it.
-* You can also introduce an image and/or video to demonstrate the problem and make the understanding easier.
-
-# Description of problem
-
-* Description of the problem:
-
-* Enter the zip, image and video made from VeronteApp:
-
+  -type: markdown
+   attributes:
+    value: | 
+        # References
+          * This issue is created for the knowledge of possible errors generated in our applications and with the fact of improving our quality product.
+          * Enter a description of the error that occurred so that our engineers can begin to solve it.
+          * You can also introduce an image and/or video to demonstrate the problem and make the understanding easier.
+  -type: markdown
+   attributes:
+   value: |
+        # Description of problem
   - type: markdown
     attributes:
       value: |
