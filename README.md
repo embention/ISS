@@ -46,7 +46,7 @@
 💹 For greater visualization of our work, we are going to use the badges, all the issues of each application will contain several badges that will show the problems found, those that have been resolved, those that remain to be done and more data so that the client can see if his reported problem is being addressed
 
 > Open issues
-* [![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp&logo=github&style=for-the-badge)](https://github.com/embention/ISS/issue/VeronteApp)
+* [![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp&logo=github&style=for-the-badge)](https://github.com/embention/ISS/issues/VeronteApp)
 * ![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteFDR?color=blue&label=ISS%2FVeronteFDR&logo=github&style=for-the-badge)
 * ![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteLink?color=blue&label=ISS%2FVeronteLink&logo=github&style=for-the-badge)
 
