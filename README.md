@@ -37,7 +37,7 @@
 📝 The labels serve to identify and separate the different problems found, the issue will always contain the label of the application which was being used, 
     the PR (Problem report) label and a label related to the problem.
 
-🏷️ PR, Software, VeronteApp, VeronteFDR , Link.
+🏷️ PR, Software, VeronteApp, VeronteFDR , VeronteLink.
 
 
 
