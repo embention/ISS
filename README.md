@@ -2,6 +2,9 @@
 
 
 
+
+
+
 👉 This repository has been created with the intention of solving all the possible errors that our clients may encounter when using our applications.
 
 👉 To make this possible, the feedback functionality has been added to the applications.
