@@ -1,10 +1,10 @@
----
+
 name: Problem Report 
 about: Describe a PR
 title: ''
 labels: ["VeronteApp", "PR","Software"]
 assignees: 'jmt1'
----
+
 
   - type: markdown
     attributes:
@@ -39,17 +39,3 @@ assignees: 'jmt1'
         - Chrome
         - Safari
         - Microsoft Edge
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
