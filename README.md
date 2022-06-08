@@ -1,4 +1,4 @@
-# ISS      ![logoOK](https://user-images.githubusercontent.com/101524106/172639311-97c04510-108f-4762-a56c-a696ee78ef14.png)
+# ISS      ![logo_small](https://user-images.githubusercontent.com/101524106/172639833-cbb3113f-8654-4053-8122-861c4dfdc224.png)
 
 
 🚀 ISsueStation 🚀 
