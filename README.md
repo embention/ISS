@@ -58,5 +58,7 @@
 
 > Websites 
 
-![alt VeronteApp](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteApp&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fdev-vapp.embention.net%2F)
+* [![alt VeronteApp](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteApp&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fdev-vapp.embention.net%2F)](https://dev-vapp.embention.net/)
+* * [![alt VeronteFDR](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteFDR&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fdev-fdr.embention.net%2F)](https://dev-fdr.embention.net/)
+* [![alt VeronteLink](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteLink&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fdev-link.embention.net%2F)](https://dev-link.embention.net/)
 
