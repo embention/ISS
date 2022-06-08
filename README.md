@@ -5,7 +5,6 @@
 
 
 
-
 👉 This repository has been created with the intention of solving all the possible errors that our clients may encounter when using our applications.
 
 👉 To make this possible, the feedback functionality has been added to the applications.
@@ -47,6 +46,9 @@
 💹 For greater visualization of our work, we are going to use the badges, all the issues of each application will contain several badges that will show the problems found, those that have been resolved, those that remain to be done and more data so that the client can see if his reported problem is being addressed
 
 > Open issues
+* <a href="https://github.com/embention/ISS/VeronteApp">
+    <img src="https://github.com/embention/ISS/issues/VeronteApp)](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp&logo=github&style=for-the-badge">
+    </a>
 * ![alt issues-open ![](https://github.com/embention/ISS/issues/VeronteApp)](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp&logo=github&style=for-the-badge)
 * ![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteFDR?color=blue&label=ISS%2FVeronteFDR&logo=github&style=for-the-badge)
 * ![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteLink?color=blue&label=ISS%2FVeronteLink&logo=github&style=for-the-badge)
