@@ -37,5 +37,4 @@ body:
   - type: textarea
     id: data
     attributes:
-      label: Drag zip, image and video
-      description: Drag the downloaded zip, image and video
+      label: Drag the downloaded zip, image and video
