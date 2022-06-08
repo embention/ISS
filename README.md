@@ -6,7 +6,7 @@
 
 👉 To make this possible, the feedback functionality has been added to the applications.
 
-# 🧾 How does it work ❓
+## 🧾 How does it work ❓
 
 1️⃣ Within our applications we go to the feedback button.
 
@@ -27,7 +27,7 @@
 🌟 Our engineers will take care of solving the problem 🌟
 
 
-# 🏷️ Labels 🏷️
+## 🏷️ Labels 🏷️
 
 📝 The labels serve to identify and separate the different problems found, the issue will always contain the label of the application which was being used, 
     the PR (Problem report) label and a label related to the problem.
@@ -35,18 +35,18 @@
 🏷️ PR, Software, VeronteApp, VeronteFDR , Link.
 
 
-# Badges
+## Badges
 
 💹 For greater visualization of our work, we are going to use the badges, all the issues of each application will contain several badges that will show the problems found, those that have been resolved, those that remain to be done and more data so that the client can see if his reported problem is being addressed
 
- Open issues
+### Open issues
 
-![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp&logo=github&style=for-the-badge)
-![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteFDR?color=blue&label=ISS%2FVeronteFDR&logo=github&style=for-the-badge)
-![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteLink?color=blue&label=ISS%2FVeronteLink&logo=github&style=for-the-badge)
+* ![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp&logo=github&style=for-the-badge)
+* ![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteFDR?color=blue&label=ISS%2FVeronteFDR&logo=github&style=for-the-badge)
+* ![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteLink?color=blue&label=ISS%2FVeronteLink&logo=github&style=for-the-badge)
 
- Issues closed
+### Issues closed
   
-![alt issues](https://img.shields.io/github/issues-closed/embention/ISS/VeronteApp?label=ISS%2FVeronteApp%20&logo=github&style=for-the-badge) 
-![alt issues](https://img.shields.io/github/issues-closed/embention/ISS/VeronteFDR?label=ISS%2FVeronteFDR%20&logo=github&style=for-the-badge)
-![alt issues](https://img.shields.io/github/issues-closed/embention/ISS/VeronteLink?label=ISS%2FVeronteLink%20&logo=github&style=for-the-badge)
+* ![alt issues](https://img.shields.io/github/issues-closed/embention/ISS/VeronteApp?label=ISS%2FVeronteApp%20&logo=github&style=for-the-badge) 
+* ![alt issues](https://img.shields.io/github/issues-closed/embention/ISS/VeronteFDR?label=ISS%2FVeronteFDR%20&logo=github&style=for-the-badge)
+* ![alt issues](https://img.shields.io/github/issues-closed/embention/ISS/VeronteLink?label=ISS%2FVeronteLink%20&logo=github&style=for-the-badge)
