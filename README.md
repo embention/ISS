@@ -1,5 +1,4 @@
-![logog](https://user-images.githubusercontent.com/101524106/172640471-2e90b92d-db0f-406b-bf66-ec004155d683.png)
-
+![logo](https://user-images.githubusercontent.com/101524106/172641154-0bf1229e-a489-4c1b-81be-338f78a0f5e6.png)
 
 
 
