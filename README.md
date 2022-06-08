@@ -1,7 +1,6 @@
 ![logog](https://user-images.githubusercontent.com/101524106/172640471-2e90b92d-db0f-406b-bf66-ec004155d683.png)
 
 
-🚀 ISsueStation 🚀 
 
 👉 This repository has been created with the intention of solving all the possible errors that our clients may encounter when using our applications.
 
