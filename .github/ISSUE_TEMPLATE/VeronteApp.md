@@ -4,10 +4,8 @@ about: Describe a PR
 title: ''
 labels: ["VeronteApp", "PR","Software"]
 assignees: 'jmt1'
-
 ---
 
-body:
   - type: markdown
     attributes:
       value: |
