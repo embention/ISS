@@ -46,7 +46,7 @@
 
 > Open issues
 * ![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp&logo=github&style=for-the-badge)
-[a link](https://github.com/embention/ISS/issues/VeronteApp)
+![](https://github.com/embention/ISS/issues/VeronteApp)
 * ![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteFDR?color=blue&label=ISS%2FVeronteFDR&logo=github&style=for-the-badge)
 * ![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteLink?color=blue&label=ISS%2FVeronteLink&logo=github&style=for-the-badge)
 
