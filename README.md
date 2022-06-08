@@ -31,7 +31,7 @@
 
 🌟 Our engineers will take care of solving the problem 🌟
 
-
+<br>
 
 ## 🏷️ Labels 🏷️
 
@@ -41,7 +41,7 @@
 
 🏷️ PR, Software, VeronteApp, VeronteFDR , VeronteLink.
 
-
+<br>
 
 ## [![alt embention](https://img.shields.io/static/v1?label=Badges&message=Embention&color=green&style=for-the-badge)](https://github.com/embention/ISS)
 
