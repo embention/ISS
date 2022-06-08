@@ -1,8 +1,10 @@
+name: "Bug report"
 body:
-- type: dropdown
+- type: input
+  id: name
   attributes:
-    label: Do you like pie?
-    options:
-      - Yes
-      - No
-      - Maybe
+    label: First name
+- type: input
+  id: name
+  attributes:
+    label: Last name
