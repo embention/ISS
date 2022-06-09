@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://link.embention.net/">
-<img src="(https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteLink&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Flink.embention.net%2F">
+<img src="https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteLink&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Flink.embention.net%2F">
 </a>
 <div>
 
