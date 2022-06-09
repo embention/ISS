@@ -3,6 +3,10 @@
 <img src="https://user-images.githubusercontent.com/101524106/172641154-0bf1229e-a489-4c1b-81be-338f78a0f5e6.png">
 </p>
 
+<div class="footer">
+        &copy; 2004 Corporación Foo
+    </div>
+
 [![alt VeronteApp](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteApp&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fv68-vapp.embention.net%2F)](https://v68-vapp.embention.net/)
       [![alt VeronteFDR](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteFDR&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Ffdr.embention.net%2F)](https://fdr.embention.net/)
       [![alt VeronteLink](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteLink&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Flink.embention.net%2F)](https://link.embention.net/)
@@ -64,34 +68,3 @@
 * [![alt issues](https://img.shields.io/github/issues-closed/embention/ISS/VeronteApp?label=ISS%2FVeronteApp%20&logo=github&style=for-the-badge)](https://github.com/embention/ISS/issues/VeronteApp) 
 * [![alt issues](https://img.shields.io/github/issues-closed/embention/ISS/VeronteFDR?label=ISS%2FVeronteFDR%20&logo=github&style=for-the-badge)](https://github.com/embention/ISS/issues/VeronteFDR)
 * [![alt issues](https://img.shields.io/github/issues-closed/embention/ISS/VeronteLink?label=ISS%2FVeronteLink%20&logo=github&style=for-the-badge)](https://github.com/embention/ISS/issues/VeronteLink)
-
-<br>
-
-
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
