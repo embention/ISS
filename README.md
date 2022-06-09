@@ -12,15 +12,15 @@
 </p>
 
 <p align="center">
-    <a href="https://fdr.embention.net/">
+<a href="https://fdr.embention.net/">
 <img src="https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteFDR&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Ffdr.embention.net%2F">
 </a>
 </p>
 
-<p align="right">
-    <a href="https://link.embention.net/">
+<p align="rigth">
+<a href="https://link.embention.net/">
 <img src="(https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteLink&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Flink.embention.net%2F">
-    </a>
+</a>
 </p>
 
 <br>
