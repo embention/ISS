@@ -1,0 +1,19 @@
+name: Bug Report
+description: File a bug report
+title: "VeronteLink Bug"
+labels: ["PR", "VeronteLink", "Software"]
+assignees:
+  - jmt1
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the problem
+      description: Enter the problem found
+      placeholder: I found problem with...
+    validations:
+      required: false
+  - type: textarea
+    id: data
+    attributes:
+      label: Drag the downloaded zip, image and video
