@@ -1,0 +1,39 @@
+name: Bug Report
+description: File a bug report
+title: "VeronteFDR Bug"
+labels: ["PR", "VeronteFDR", "Software"]
+assignees:
+  - jmt1
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the problem
+      description: Enter the problem found
+      placeholder: I found problem with...
+    validations:
+      required: false
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version of our software are you running?
+      options:
+        - 6.7
+        - 6.8
+        - 6.9
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+  - type: textarea
+    id: data
+    attributes:
+      label: Drag the downloaded zip, image and video
