@@ -1,20 +1,19 @@
----
-name: Problem Report 
-about: Describe a PR
-title: ''
-labels: VeronteFDR, PR, Software
-assignees: 'jmt1'
-
----
-
-# References
-
-* This issue is created for the knowledge of possible errors generated in our applications and with the fact of improving our quality product.
-* Enter a description of the error that occurred so that our engineers can begin to solve it.
-* You can also introduce an image and/or video to demonstrate the problem and make the understanding easier.
-
-# Description of problem
-
-* Description of the problem:
-
-* Enter the zip, image and video made from VeronteFDR:
+name: Bug Report
+description: File a bug report
+title: "VeronteFDR Bug"
+labels: ["PR", "VeronteFDR", "Software"]
+assignees:
+  - jmt1
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the problem
+      description: Enter the problem found
+      placeholder: I found problem with...
+    validations:
+      required: false
+  - type: textarea
+    id: data
+    attributes:
+      label: Drag the downloaded zip, image and video
