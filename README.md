@@ -5,21 +5,23 @@
 
 <br><br>
 
-<p  align="left">
-<a href="https://v68-vapp.embention.net/" align="left">
+<p align="left">
+<a href="https://v68-vapp.embention.net/">
 <img src="https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteApp&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fv68-vapp.embention.net%2F">
 </a>
 </p>
 
-
-<a href="https://fdr.embention.net/" align="center">
+<p align="center">
+<a href="https://fdr.embention.net/">
 <img src="https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteFDR&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Ffdr.embention.net%2F">
 </a>
+</p>
 
-<a href="https://link.embention.net/" align="right">
+<p align="right">
+<a href="https://link.embention.net/">
 <img src="https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteLink&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Flink.embention.net%2F">
 </a>
-<div>
+</p>
 
 <br>
 
