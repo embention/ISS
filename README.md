@@ -6,18 +6,14 @@
 <br><br>
 
 <span align="left"></span>
-
 [![alt VeronteApp](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteApp&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fv68-vapp.embention.net%2F)](https://v68-vapp.embention.net/)
 <span align="center"></span>
-
 [![alt VeronteFDR](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteFDR&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Ffdr.embention.net%2F)](https://fdr.embention.net/)
 <span align="right"></span>
-
 [![alt VeronteLink](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteLink&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Flink.embention.net%2F)](https://link.embention.net/)
 
 
-
-<br><br>
+<br>
 
 
 👉 This repository has been created with the intention of solving all the possible errors that our clients may encounter when using our applications.
