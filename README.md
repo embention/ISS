@@ -5,13 +5,13 @@
 
 <br><br>
 
-<p align="left">``</p>
+<span align="left"></span>
 
 [![alt VeronteApp](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteApp&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fv68-vapp.embention.net%2F)](https://v68-vapp.embention.net/)
-<p align="center">``</p>
+<span align="center"></span>
 
 [![alt VeronteFDR](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteFDR&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Ffdr.embention.net%2F)](https://fdr.embention.net/)
-<p align="right">``</p>
+<span align="right"></span>
 
 [![alt VeronteLink](https://img.shields.io/website?down_color=red&down_message=Down&label=VeronteLink&logo=github&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Flink.embention.net%2F)](https://link.embention.net/)
 
