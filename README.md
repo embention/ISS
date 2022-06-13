@@ -1,8 +1,8 @@
 <br>
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/101524106/173387684-dc2665b1-fd37-4c84-bc42-86e8a3aa5b0d.png">
-<img src="https://user-images.githubusercontent.com/101524106/172641154-0bf1229e-a489-4c1b-81be-338f78a0f5e6.png">
+<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/101524106/172641154-0bf1229e-a489-4c1b-81be-338f78a0f5e6.png">
+<img src="https://user-images.githubusercontent.com/101524106/173387684-dc2665b1-fd37-4c84-bc42-86e8a3aa5b0d.png">
 </picture>
 </p>
 
