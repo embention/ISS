@@ -1,8 +1,7 @@
-
-name: Bug Report VeronteApp
+name: Bug Report VeronteFDR
 description: File a bug report
-title: "VeronteApp Bug"
-labels: ["PR", "VeronteApp", "Software"]
+title: "VeronteFDR Bug"
+labels: ["PR", "VeronteFDR", "Software"]
 assignees:
   - jmt1
 body:
