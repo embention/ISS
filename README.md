@@ -70,9 +70,11 @@
 <br>
 
 > Open issues
-* [![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteApp?color=blue&label=ISS%2FVeronteApp&logo=github&style=for-the-badge)](https://github.com/embention/ISS/issues/VeronteApp)
-* [![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteFDR?color=blue&label=ISS%2FVeronteFDR&logo=github&style=for-the-badge)](https://github.com/embention/ISS/issues/VeronteFDR)
-* [![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteLink?color=blue&label=ISS%2FVeronteLink&logo=github&style=for-the-badge)](https://github.com/embention/ISS/issues/VeronteLink)
+
+
+* [![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteApp?label=ISS%2FVeronteApp&logo=github&color=blue&style=for-the-badge)](https://github.com/embention/ISS/issues?q=is%3Aissue+is%3Aopen+label%3AVeronteApp)
+* [![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteFDR?label=ISS%2FVeronteFDR&logo=github&color=blue&style=for-the-badge)](https://github.com/embention/ISS/issues?q=is%3Aissue+is%3Aopen+label%3AVeronteFDR)
+* [![alt issues-open](https://img.shields.io/github/issues/embention/ISS/VeronteLink?label=ISS%2FVeronteLink&logo=github&color=blue&style=for-the-badge)](https://github.com/embention/ISS/issues?q=is%3Aopen+is%3Aissue+label%3AVeronteLink)
 
 <br>
 
